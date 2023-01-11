@@ -1,5 +1,4 @@
 # PVZCheater
-# PVZCheater
 
 ## MFC
 
